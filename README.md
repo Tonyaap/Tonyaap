@@ -7,7 +7,7 @@ HI, I'm Stefan!
 
 - 🎧 I started my career in the night-live of Amsterdam where got to meet all sorts of interesting people. I really developed my music production skills over the years and did lots of studio work.
 
-- 🎢 After doing some online courses I got hooked pretty quickly and decided to further develop my skills by joining the codaisseur bootcamp, this was probably one of the best decisions in my life!
+- 🎢 After doing some online coding courses I got hooked pretty quickly and decided to further develop my skills by joining the codaisseur bootcamp, this was probably one of the best decisions in my life!
 
 - 🌱 With a good foundation of skills to build upon I think i'm ready for the next step and to keep growing as a developer!
 
