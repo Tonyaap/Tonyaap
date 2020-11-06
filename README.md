@@ -1,7 +1,7 @@
 HI, I'm Stefan! 
 
 <!--
-**Tonyaap/Tonyaap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tonyaap/Tonyaap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile./>
 
 - 🌱 Feeling most comfortable with React-Environment and getting familiar with TypeScript and GraphQL.
 
