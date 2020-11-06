@@ -1,11 +1,18 @@
-WELCOME TO MY GITHUB!
+HI, I'm Stefan! 
 
 <!--
 **Tonyaap/Tonyaap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🌱 I’m currently learning TypeScript, GraphQl
-- 💬 Feel free to contact me about anything!
+- 🌱 Feeling most comfortable with React-Environment and getting familiar with TypeScript and GraphQL.
+
+- 🎧 I started my career in the night-live of Amsterdam where got to meet all sorts of interesting people. I really developed my music production skills over the years and did lots of studio work.
+
+- 🎢 After doing some online courses I got hooked pretty quickly and decided to further develop my skills by joining the codaisseur bootcamp, this was probably one of the best decisions in my life!
+
+- 🌱 With a good foundation of skills to build upon I think i'm ready for the next step and to keep growing as a developer!
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stefan-kniest/)
+
 - 🎧 Create some beats at my [portfolio project](https://lucid-poincare-293a24.netlify.app/)
 -->
 
